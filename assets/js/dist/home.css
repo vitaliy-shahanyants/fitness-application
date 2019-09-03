@@ -1,0 +1,7 @@
+.intro-text{
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgba(45, 45, 48, .5);
+  color:#ededed;
+}
